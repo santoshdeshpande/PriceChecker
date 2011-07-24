@@ -9,12 +9,11 @@
 #import <UIKit/UIKit.h>
 
 
-@interface BarCodeScannerController : TTViewController <ZBarReaderDelegate> {
-	UITextView *resultText;
+@interface BarCodeScannerController : TTViewController  {
 	NSString *result;
+	TTImageView *productImage;
+	UILabel *codeLabel;
 }
-
-- (IBAction) scanButtonTapped : (id) sender;
 
 - (id) initWithText:(NSString *)text;
 

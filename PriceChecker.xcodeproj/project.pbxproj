@@ -34,6 +34,8 @@
 		3A3194D013DC085D000B6B13 /* shopping-cart@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A3194CE13DC085D000B6B13 /* shopping-cart@2x.png */; };
 		3A31952A13DC0B70000B6B13 /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A31952813DC0B70000B6B13 /* AppIcon.png */; };
 		3A31952B13DC0B70000B6B13 /* AppIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A31952913DC0B70000B6B13 /* AppIcon@2x.png */; };
+		3A31955D13DC438C000B6B13 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A31955C13DC438C000B6B13 /* Default.png */; };
+		3A3195BF13DC510C000B6B13 /* defaultIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A3195BE13DC510C000B6B13 /* defaultIcon.png */; };
 		3AE4C23113BB8FCA00F0F5E0 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AE4C23013BB8FCA00F0F5E0 /* Icon.png */; };
 		3AE4C23913BB904300F0F5E0 /* LauncherController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */; };
 		3AEB9C0413C1F2F4005AF5E9 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AEB9C0313C1F2F4005AF5E9 /* AVFoundation.framework */; };
@@ -259,6 +261,8 @@
 		3A3194CE13DC085D000B6B13 /* shopping-cart@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "shopping-cart@2x.png"; sourceTree = "<group>"; };
 		3A31952813DC0B70000B6B13 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
 		3A31952913DC0B70000B6B13 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon@2x.png"; sourceTree = "<group>"; };
+		3A31955C13DC438C000B6B13 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		3A3195BE13DC510C000B6B13 /* defaultIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = defaultIcon.png; sourceTree = "<group>"; };
 		3AE4C23013BB8FCA00F0F5E0 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		3AE4C23713BB904300F0F5E0 /* LauncherController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LauncherController.h; sourceTree = "<group>"; };
 		3AE4C23813BB904300F0F5E0 /* LauncherController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LauncherController.m; sourceTree = "<group>"; };
@@ -319,6 +323,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				3A31955C13DC438C000B6B13 /* Default.png */,
 				3A22445013D9F6E50019FF74 /* ZBarSDK */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -505,6 +510,7 @@
 		3A4B073413BA27C8005827D1 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				3A3195BE13DC510C000B6B13 /* defaultIcon.png */,
 				3A31952813DC0B70000B6B13 /* AppIcon.png */,
 				3A31952913DC0B70000B6B13 /* AppIcon@2x.png */,
 				3A3194CD13DC085D000B6B13 /* shopping-cart.png */,
@@ -742,6 +748,8 @@
 				3A3194D013DC085D000B6B13 /* shopping-cart@2x.png in Resources */,
 				3A31952A13DC0B70000B6B13 /* AppIcon.png in Resources */,
 				3A31952B13DC0B70000B6B13 /* AppIcon@2x.png in Resources */,
+				3A31955D13DC438C000B6B13 /* Default.png in Resources */,
+				3A3195BF13DC510C000B6B13 /* defaultIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

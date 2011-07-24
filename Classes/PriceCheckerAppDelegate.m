@@ -20,7 +20,7 @@
     
 	TTNavigator* navigator = [TTNavigator navigator];
 	navigator.supportsShakeToReload = YES;
-	navigator.persistenceMode = TTNavigatorPersistenceModeNone;
+	navigator.persistenceMode = TTNavigatorPersistenceModeAll;
 
 	TTURLMap *map = navigator.URLMap;
 	[map from:@"*" toViewController:[TTWebController class]];

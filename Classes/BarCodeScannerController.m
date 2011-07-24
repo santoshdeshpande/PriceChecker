@@ -22,8 +22,7 @@
 
 - (id) initWithText: (NSString *) text {
 	self = [super init];
-	result = text;
-	
+	result = text;	
 	return self;
 }
 
@@ -32,52 +31,48 @@
 // Implement loadView to create a view hierarchy programmatically, without using a nib.
 - (void)loadView {
 	[super loadView];
-	 UIButton *scanButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-	 [scanButton setFrame:CGRectMake(20, 20, 200, 44)];
-	 [scanButton setTitle:@"Scan Code" forState:UIControlStateNormal];
- 	 [scanButton addTarget:self action:@selector(scanButtonTapped:) forControlEvents:UIControlEventTouchUpInside];
-	 [self.view addSubview:scanButton];
 	
-	resultText = [[UITextView alloc] init];
-	[resultText setFrame:CGRectMake(20, 50, 200, 50)];
-	[self.view addSubview:resultText];
-}
+	UIImage *defaultImage = [UIImage imageNamed:@"defaultIcon.png"];
+	productImage = [[TTImageView alloc] init];
+	[productImage setFrame:CGRectMake(20, 20, 75, 75)];
+	[productImage setDefaultImage:defaultImage];
+	[productImage.layer setBorderColor:[[UIColor blackColor] CGColor]];
+	[productImage.layer setBorderWidth:1.0];
+	[self.view addSubview:productImage];
+	
+	UILabel *nameLabel = [[UILabel alloc] initWithFrame:CGRectMake(115, 10, 180, 27)];
+	nameLabel.text = @"Name";
+	[self.view addSubview:nameLabel];
 
-- (IBAction) scanButtonTapped : (id) sender{
-	ZBarReaderViewController *reader = [ZBarReaderViewController new];
-	reader.showsZBarControls = FALSE;
-	reader.readerDelegate = self;
-	ZBarImageScanner *scanner = reader.scanner;
-	[scanner setSymbology:ZBAR_I25 config:ZBAR_CFG_ENABLE to:0];
-	[self presentModalViewController:reader animated:YES];
-	[reader release];
-}
+	codeLabel = [[UILabel alloc] initWithFrame:CGRectMake(115, 55, 180, 27)];
+	codeLabel.text = @"Bar Code";
+	[self.view addSubview:codeLabel];
+	
+	
+	UIButton *discrepancyButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+	discrepancyButton.frame = CGRectMake(25, 315, 275, 37);
+	[discrepancyButton setTitle:@"Add Discrepancy" forState:UIControlStateNormal];
+	[self.view addSubview:discrepancyButton];
 
-- (void) imagePickerController: (UIImagePickerController*) reader didFinishPickingMediaWithInfo: (NSDictionary*) info {
-	id<NSFastEnumeration> results =
-	[info objectForKey: ZBarReaderControllerResults];
-    ZBarSymbol *symbol = nil;
-    for(symbol in results)
-        break;
+	UIButton *takePictureButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+	takePictureButton.frame = CGRectMake(25, 360, 275, 37);
+	[takePictureButton setTitle:@"Take Picture" forState:UIControlStateNormal];
+	[self.view addSubview:takePictureButton];
 	
-    // EXAMPLE: do something useful with the barcode data
-	NSLog(@"Symbol data is: %@",symbol.data);
-	resultText.text = symbol.data;
-    // EXAMPLE: do something useful with the barcode image
-//    resultImage.image =
-//	[info objectForKey: UIImagePickerControllerOriginalImage];
 	
-    // ADD: dismiss the controller (NB dismiss from the *reader*!)
-    [reader dismissModalViewControllerAnimated: YES];
+	//[productImage release];
+	//[discrepancyButton release];
+	//[takePictureButton release];
+
+	
 }
 
 
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
-	if(result) {
-		resultText.text = result;
-	}
+	if(result)
+		codeLabel.text = result;
 }
 
 

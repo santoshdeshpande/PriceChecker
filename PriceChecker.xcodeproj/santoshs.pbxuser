@@ -10,8 +10,8 @@
 	1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1965, 1568}}";
-			sepNavSelRange = "{872, 0}";
-			sepNavVisRange = "{304, 915}";
+			sepNavSelRange = "{574, 0}";
+			sepNavVisRange = "{304, 914}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* PriceChecker */ = {
@@ -108,6 +108,56 @@
 			3A31953813DC0C1F000B6B13 /* PBXTextBookmark */ = 3A31953813DC0C1F000B6B13 /* PBXTextBookmark */;
 			3A31953A13DC0C31000B6B13 /* PBXTextBookmark */ = 3A31953A13DC0C31000B6B13 /* PBXTextBookmark */;
 			3A31953D13DC0C46000B6B13 /* PBXTextBookmark */ = 3A31953D13DC0C46000B6B13 /* PBXTextBookmark */;
+			3A3195C313DC5133000B6B13 /* PBXTextBookmark */ = 3A3195C313DC5133000B6B13 /* PBXTextBookmark */;
+			3A3195C413DC5133000B6B13 /* XCBuildMessageTextBookmark */ = 3A3195C413DC5133000B6B13 /* XCBuildMessageTextBookmark */;
+			3A3195C513DC5133000B6B13 /* PBXTextBookmark */ = 3A3195C513DC5133000B6B13 /* PBXTextBookmark */;
+			3A3195C813DC5140000B6B13 /* PBXTextBookmark */ = 3A3195C813DC5140000B6B13 /* PBXTextBookmark */;
+			3A3195C913DC5140000B6B13 /* XCBuildMessageTextBookmark */ = 3A3195C913DC5140000B6B13 /* XCBuildMessageTextBookmark */;
+			3A3195CA13DC5140000B6B13 /* PBXTextBookmark */ = 3A3195CA13DC5140000B6B13 /* PBXTextBookmark */;
+			3A3195CD13DC5166000B6B13 /* PBXTextBookmark */ = 3A3195CD13DC5166000B6B13 /* PBXTextBookmark */;
+			3A3195CE13DC5166000B6B13 /* PBXTextBookmark */ = 3A3195CE13DC5166000B6B13 /* PBXTextBookmark */;
+			3A3195CF13DC5166000B6B13 /* PBXBookmark */ = 3A3195CF13DC5166000B6B13 /* PBXBookmark */;
+			3A3195D013DC5166000B6B13 /* PBXTextBookmark */ = 3A3195D013DC5166000B6B13 /* PBXTextBookmark */;
+			3A3195D113DC5166000B6B13 /* PBXTextBookmark */ = 3A3195D113DC5166000B6B13 /* PBXTextBookmark */;
+			3A3195D213DC5166000B6B13 /* PBXTextBookmark */ = 3A3195D213DC5166000B6B13 /* PBXTextBookmark */;
+			3A3195D313DC5166000B6B13 /* PBXTextBookmark */ = 3A3195D313DC5166000B6B13 /* PBXTextBookmark */;
+			3A3195D413DC5166000B6B13 /* XCBuildMessageTextBookmark */ = 3A3195D413DC5166000B6B13 /* XCBuildMessageTextBookmark */;
+			3A3195D513DC5166000B6B13 /* PBXTextBookmark */ = 3A3195D513DC5166000B6B13 /* PBXTextBookmark */;
+			3A3195D913DC51B7000B6B13 /* PBXTextBookmark */ = 3A3195D913DC51B7000B6B13 /* PBXTextBookmark */;
+			3A3195DA13DC51B7000B6B13 /* XCBuildMessageTextBookmark */ = 3A3195DA13DC51B7000B6B13 /* XCBuildMessageTextBookmark */;
+			3A3195DB13DC51B7000B6B13 /* PBXTextBookmark */ = 3A3195DB13DC51B7000B6B13 /* PBXTextBookmark */;
+			3A3195DC13DC51B8000B6B13 /* PBXTextBookmark */ = 3A3195DC13DC51B8000B6B13 /* PBXTextBookmark */;
+			3A3195DD13DC51B8000B6B13 /* XCBuildMessageTextBookmark */ = 3A3195DD13DC51B8000B6B13 /* XCBuildMessageTextBookmark */;
+			3A3195DE13DC51B8000B6B13 /* PBXTextBookmark */ = 3A3195DE13DC51B8000B6B13 /* PBXTextBookmark */;
+			3A3195E613DC52F2000B6B13 /* PBXBookmark */ = 3A3195E613DC52F2000B6B13 /* PBXBookmark */;
+			3A3195E713DC52F2000B6B13 /* PBXTextBookmark */ = 3A3195E713DC52F2000B6B13 /* PBXTextBookmark */;
+			3A3195E813DC52F2000B6B13 /* XCBuildMessageTextBookmark */ = 3A3195E813DC52F2000B6B13 /* XCBuildMessageTextBookmark */;
+			3A3195E913DC52F2000B6B13 /* PBXTextBookmark */ = 3A3195E913DC52F2000B6B13 /* PBXTextBookmark */;
+			3A3195EF13DC533F000B6B13 /* PBXTextBookmark */ = 3A3195EF13DC533F000B6B13 /* PBXTextBookmark */;
+			3A3195F113DC538D000B6B13 /* PBXTextBookmark */ = 3A3195F113DC538D000B6B13 /* PBXTextBookmark */;
+			3A3195F413DC53B2000B6B13 /* PBXTextBookmark */ = 3A3195F413DC53B2000B6B13 /* PBXTextBookmark */;
+			3A3195FB13DC54BF000B6B13 /* PBXTextBookmark */ = 3A3195FB13DC54BF000B6B13 /* PBXTextBookmark */;
+			3A3195FC13DC54BF000B6B13 /* PBXTextBookmark */ = 3A3195FC13DC54BF000B6B13 /* PBXTextBookmark */;
+			3A3195FD13DC54BF000B6B13 /* PBXTextBookmark */ = 3A3195FD13DC54BF000B6B13 /* PBXTextBookmark */;
+			3A3195FE13DC54BF000B6B13 /* PBXTextBookmark */ = 3A3195FE13DC54BF000B6B13 /* PBXTextBookmark */;
+			3A3195FF13DC54BF000B6B13 /* PBXTextBookmark */ = 3A3195FF13DC54BF000B6B13 /* PBXTextBookmark */;
+			3A31960213DC54CC000B6B13 /* PBXTextBookmark */ = 3A31960213DC54CC000B6B13 /* PBXTextBookmark */;
+			3A31960313DC5523000B6B13 /* PBXTextBookmark */ = 3A31960313DC5523000B6B13 /* PBXTextBookmark */;
+			3A31961413DC565B000B6B13 /* PBXTextBookmark */ = 3A31961413DC565B000B6B13 /* PBXTextBookmark */;
+			3A31961513DC565B000B6B13 /* PBXTextBookmark */ = 3A31961513DC565B000B6B13 /* PBXTextBookmark */;
+			3A31961713DC56CA000B6B13 /* PBXTextBookmark */ = 3A31961713DC56CA000B6B13 /* PBXTextBookmark */;
+			3A31961C13DC5757000B6B13 /* XCBuildMessageTextBookmark */ = 3A31961C13DC5757000B6B13 /* XCBuildMessageTextBookmark */;
+			3A31961F13DC5762000B6B13 /* PBXTextBookmark */ = 3A31961F13DC5762000B6B13 /* PBXTextBookmark */;
+			3A31962013DC5762000B6B13 /* PBXTextBookmark */ = 3A31962013DC5762000B6B13 /* PBXTextBookmark */;
+			3A31962113DC5762000B6B13 /* PBXTextBookmark */ = 3A31962113DC5762000B6B13 /* PBXTextBookmark */;
+			3A31962413DC5762000B6B13 /* PBXTextBookmark */ = 3A31962413DC5762000B6B13 /* PBXTextBookmark */;
+			3A31962813DC57A5000B6B13 /* PBXTextBookmark */ = 3A31962813DC57A5000B6B13 /* PBXTextBookmark */;
+			3A31962913DC57A5000B6B13 /* PBXTextBookmark */ = 3A31962913DC57A5000B6B13 /* PBXTextBookmark */;
+			3A31962D13DC5FC9000B6B13 /* PBXTextBookmark */ = 3A31962D13DC5FC9000B6B13 /* PBXTextBookmark */;
+			3A31962E13DC5FC9000B6B13 /* XCBuildMessageTextBookmark */ = 3A31962E13DC5FC9000B6B13 /* XCBuildMessageTextBookmark */;
+			3A31962F13DC5FC9000B6B13 /* PBXTextBookmark */ = 3A31962F13DC5FC9000B6B13 /* PBXTextBookmark */;
+			3A31963013DC5FCA000B6B13 /* PBXTextBookmark */ = 3A31963013DC5FCA000B6B13 /* PBXTextBookmark */;
+			3A31963113DC5FCC000B6B13 /* PBXTextBookmark */ = 3A31963113DC5FCC000B6B13 /* PBXTextBookmark */;
 			3AE4C27013BB951200F0F5E0 = 3AE4C27013BB951200F0F5E0 /* PBXBookmark */;
 		};
 		sourceControlManager = 3A4B073113BA2084005827D1 /* Source Control */;
@@ -160,7 +210,7 @@
 	};
 	3A22418213D9F2C20019FF74 /* EmbedReaderViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {693, 1824}}";
+			sepNavIntBoundsRect = "{{0, 0}, {693, 1760}}";
 			sepNavSelRange = "{389, 0}";
 			sepNavVisRange = "{0, 454}";
 		};
@@ -179,7 +229,7 @@
 		ignoreCount = 0;
 		lineNumber = 53;
 		location = PriceChecker;
-		modificationTime = 333200217.705482;
+		modificationTime = 333207488.177339;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
@@ -197,7 +247,7 @@
 		ignoreCount = 0;
 		lineNumber = 26;
 		location = PriceChecker;
-		modificationTime = 333200239.03447;
+		modificationTime = 333209508.341041;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
@@ -277,9 +327,10 @@
 		path = /Users/santoshs/projects/PriceChecker/Classes/BarCodeScannerController.m;
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1824}}";
-			sepNavSelRange = "{672, 0}";
-			sepNavVisRange = "{155, 575}";
+			sepNavIntBoundsRect = "{{0, 0}, {693, 1648}}";
+			sepNavSelRange = "{2314, 0}";
+			sepNavVisRange = "{2037, 578}";
+			sepNavWindowFrame = "{{84, 308}, {1069, 802}}";
 		};
 	};
 	3A22451513DA06BA0019FF74 /* PBXTextBookmark */ = {
@@ -287,7 +338,7 @@
 		fRef = 3AEB9C1A13C1F355005AF5E9 /* BarCodeScannerController.h */;
 		name = "BarCodeScannerController.h: 14";
 		rLen = 0;
-		rLoc = 302;
+		rLoc = 306;
 		rType = 0;
 		vrLen = 396;
 		vrLoc = 0;
@@ -307,7 +358,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 789;
+		rLoc = 788;
 		rType = 0;
 		vrLen = 1135;
 		vrLoc = 612;
@@ -317,7 +368,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 789;
+		rLoc = 788;
 		rType = 0;
 		vrLen = 1354;
 		vrLoc = 305;
@@ -327,7 +378,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 789;
+		rLoc = 788;
 		rType = 0;
 		vrLen = 1354;
 		vrLoc = 305;
@@ -337,7 +388,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 789;
+		rLoc = 788;
 		rType = 0;
 		vrLen = 1354;
 		vrLoc = 305;
@@ -347,7 +398,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 26";
 		rLen = 0;
-		rLoc = 627;
+		rLoc = 626;
 		rType = 0;
 		vrLen = 904;
 		vrLoc = 153;
@@ -493,7 +544,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 32";
 		rLen = 0;
-		rLoc = 1049;
+		rLoc = 1048;
 		rType = 0;
 		vrLen = 956;
 		vrLoc = 269;
@@ -523,7 +574,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 32";
 		rLen = 0;
-		rLoc = 1049;
+		rLoc = 1048;
 		rType = 0;
 		vrLen = 949;
 		vrLoc = 269;
@@ -533,7 +584,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 32";
 		rLen = 0;
-		rLoc = 1049;
+		rLoc = 1048;
 		rType = 0;
 		vrLen = 1206;
 		vrLoc = 304;
@@ -543,7 +594,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 872;
+		rLoc = 871;
 		rType = 0;
 		vrLen = 915;
 		vrLoc = 304;
@@ -573,7 +624,7 @@
 		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
 		name = "PriceCheckerAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 872;
+		rLoc = 871;
 		rType = 0;
 		vrLen = 915;
 		vrLoc = 304;
@@ -618,6 +669,486 @@
 		vrLen = 827;
 		vrLoc = 370;
 	};
+	3A3195C313DC5133000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 1160;
+		rLoc = 969;
+		rType = 0;
+		vrLen = 342;
+		vrLoc = 612;
+	};
+	3A3195C413DC5133000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ']' before ';' token";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 34;
+		rType = 1;
+	};
+	3A3195C513DC5133000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 1160;
+		rLoc = 969;
+		rType = 0;
+		vrLen = 342;
+		vrLoc = 612;
+	};
+	3A3195C813DC5140000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 1160;
+		rLoc = 969;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 612;
+	};
+	3A3195C913DC5140000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'TTImageView' may not respond to '-frame:'";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 34;
+		rType = 1;
+	};
+	3A3195CA13DC5140000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 1160;
+		rLoc = 969;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 612;
+	};
+	3A3195CD13DC5166000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22418113D9F2C20019FF74 /* EmbedReaderViewController.h */;
+		name = "EmbedReaderViewController.h: 11";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 444;
+		vrLoc = 0;
+	};
+	3A3195CE13DC5166000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22418213D9F2C20019FF74 /* EmbedReaderViewController.m */;
+		name = "EmbedReaderViewController.m: 16";
+		rLen = 0;
+		rLoc = 389;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 0;
+	};
+	3A3195CF13DC5166000B6B13 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3A31955C13DC438C000B6B13 /* Default.png */;
+	};
+	3A3195D013DC5166000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23713BB904300F0F5E0 /* LauncherController.h */;
+		name = "LauncherController.h: 12";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 0;
+	};
+	3A3195D113DC5166000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 23";
+		rLen = 0;
+		rLoc = 588;
+		rType = 0;
+		vrLen = 948;
+		vrLoc = 405;
+	};
+	3A3195D213DC5166000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AEB9C1A13C1F355005AF5E9 /* BarCodeScannerController.h */;
+		name = "BarCodeScannerController.h: 14";
+		rLen = 0;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	3A3195D313DC5166000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 0;
+		rLoc = 2128;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 695;
+	};
+	3A3195D413DC5166000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'TTImageView' may not respond to '-frame:'";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 34;
+		rType = 1;
+	};
+	3A3195D513DC5166000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 34";
+		rLen = 0;
+		rLoc = 924;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 673;
+	};
+	3A3195D913DC51B7000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 38";
+		rLen = 950;
+		rLoc = 1179;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 819;
+	};
+	3A3195DA13DC51B7000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible Objective-C types 'struct UIImage *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 37;
+		rType = 1;
+	};
+	3A3195DB13DC51B7000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 38";
+		rLen = 950;
+		rLoc = 1179;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 819;
+	};
+	3A3195DC13DC51B8000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 38";
+		rLen = 0;
+		rLoc = 2128;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 673;
+	};
+	3A3195DD13DC51B8000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible Objective-C types 'struct UIImage *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 37;
+		rType = 1;
+	};
+	3A3195DE13DC51B8000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 38";
+		rLen = 950;
+		rLoc = 1179;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 673;
+	};
+	3A3195E613DC52F2000B6B13 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3A3195BE13DC510C000B6B13 /* defaultIcon.png */;
+	};
+	3A3195E713DC52F2000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 39";
+		rLen = 0;
+		rLoc = 2128;
+		rType = 0;
+		vrLen = 619;
+		vrLoc = 632;
+	};
+	3A3195E813DC52F2000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible Objective-C types 'struct UIImage *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 37;
+		rType = 1;
+	};
+	3A3195E913DC52F2000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 42";
+		rLen = 0;
+		rLoc = 1214;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 632;
+	};
+	3A3195EF13DC533F000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 39";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 677;
+		vrLoc = 632;
+	};
+	3A3195F113DC538D000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 39";
+		rLen = 0;
+		rLoc = 1089;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 632;
+	};
+	3A3195F413DC53B2000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 39";
+		rLen = 0;
+		rLoc = 1178;
+		rType = 0;
+		vrLen = 574;
+		vrLoc = 632;
+	};
+	3A3195FB13DC54BF000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 914;
+		vrLoc = 304;
+	};
+	3A3195FC13DC54BF000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22418213D9F2C20019FF74 /* EmbedReaderViewController.m */;
+		name = "EmbedReaderViewController.m: 16";
+		rLen = 0;
+		rLoc = 389;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 0;
+	};
+	3A3195FD13DC54BF000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 23";
+		rLen = 0;
+		rLoc = 588;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 405;
+	};
+	3A3195FE13DC54BF000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 43";
+		rLen = 8;
+		rLoc = 1543;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 969;
+	};
+	3A3195FF13DC54BF000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 45";
+		rLen = 0;
+		rLoc = 1649;
+		rType = 0;
+		vrLen = 766;
+		vrLoc = 969;
+	};
+	3A31960213DC54CC000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 45";
+		rLen = 0;
+		rLoc = 1649;
+		rType = 0;
+		vrLen = 768;
+		vrLoc = 969;
+	};
+	3A31960313DC5523000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 56";
+		rLen = 0;
+		rLoc = 2127;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 969;
+	};
+	3A31961413DC565B000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 55";
+		rLen = 0;
+		rLoc = 2067;
+		rType = 0;
+		vrLen = 868;
+		vrLoc = 1068;
+	};
+	3A31961513DC565B000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 49";
+		rLen = 0;
+		rLoc = 1901;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 1068;
+	};
+	3A31961713DC56CA000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 50";
+		rLen = 0;
+		rLoc = 1956;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 859;
+	};
+	3A31961C13DC5757000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'defaultImage' undeclared (first use in this function)";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 34;
+		rType = 1;
+	};
+	3A31961F13DC5762000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AEB9C1A13C1F355005AF5E9 /* BarCodeScannerController.h */;
+		name = "BarCodeScannerController.h: 15";
+		rLen = 0;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	3A31962013DC5762000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 48";
+		rLen = 0;
+		rLoc = 1469;
+		rType = 0;
+		vrLen = 1020;
+		vrLoc = 1022;
+	};
+	3A31962113DC5762000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 75";
+		rLen = 0;
+		rLoc = 2314;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 2096;
+	};
+	3A31962413DC5762000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 0;
+		rLoc = 869;
+		rType = 0;
+		vrLen = 1371;
+		vrLoc = 402;
+	};
+	3A31962813DC57A5000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 75";
+		rLen = 0;
+		rLoc = 2314;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 2096;
+	};
+	3A31962913DC57A5000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 0;
+		rLoc = 869;
+		rType = 0;
+		vrLen = 1371;
+		vrLoc = 402;
+	};
+	3A31962D13DC5FC9000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 54";
+		rLen = 0;
+		rLoc = 1729;
+		rType = 0;
+		vrLen = 782;
+		vrLoc = 859;
+	};
+	3A31962E13DC5FC9000B6B13 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'defaultImage' undeclared (first use in this function)";
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 34;
+		rType = 1;
+	};
+	3A31962F13DC5FC9000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 0;
+		rLoc = 869;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 712;
+	};
+	3A31963013DC5FCA000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 35";
+		rLen = 0;
+		rLoc = 869;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 712;
+	};
+	3A31963113DC5FCC000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 75";
+		rLen = 0;
+		rLoc = 2314;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 2037;
+	};
 	3A4B072813BA207F005827D1 /* PriceChecker */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -625,7 +1156,7 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 0;
+		breakpointsEnabled = 1;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -674,9 +1205,9 @@
 	};
 	3AE4C23813BB904300F0F5E0 /* LauncherController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {950, 896}}";
-			sepNavSelRange = "{955, 11}";
-			sepNavVisRange = "{0, 600}";
+			sepNavIntBoundsRect = "{{0, 0}, {950, 880}}";
+			sepNavSelRange = "{588, 0}";
+			sepNavVisRange = "{405, 897}";
 			sepNavWindowFrame = "{{15, 371}, {1069, 802}}";
 		};
 	};
@@ -703,8 +1234,8 @@
 	3AEB9C1A13C1F355005AF5E9 /* BarCodeScannerController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {693, 362}}";
-			sepNavSelRange = "{302, 0}";
-			sepNavVisRange = "{0, 396}";
+			sepNavSelRange = "{306, 0}";
+			sepNavVisRange = "{0, 354}";
 		};
 	};
 	3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */ = {
