@@ -1,0 +1,718 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PriceCheckerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 362}}";
+			sepNavSelRange = "{283, 0}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1568}}";
+			sepNavSelRange = "{872, 0}";
+			sepNavVisRange = "{304, 915}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PriceChecker */ = {
+		activeExec = 0;
+		executables = (
+			3A4B072813BA207F005827D1 /* PriceChecker */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3A4B072813BA207F005827D1 /* PriceChecker */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PriceChecker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PriceChecker */,
+		);
+		breakpoints = (
+			3A22450413DA06170019FF74 /* LauncherController.m:53 */,
+			3A22450813DA06670019FF74 /* BarCodeScannerController.m:26 */,
+		);
+		codeSenseManager = 3A4B073213BA2084005827D1 /* Code sense */;
+		executables = (
+			3A4B072813BA207F005827D1 /* PriceChecker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					515,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333186680;
+			PBXWorkspaceStateSaveDate = 333186680;
+		};
+		perUserProjectItems = {
+			3A22412213D9F1480019FF74 = 3A22412213D9F1480019FF74 /* PBXTextBookmark */;
+			3A22416613D9F22F0019FF74 = 3A22416613D9F22F0019FF74 /* PBXTextBookmark */;
+			3A22417213D9F2970019FF74 = 3A22417213D9F2970019FF74 /* PBXTextBookmark */;
+			3A22450C13DA06BA0019FF74 = 3A22450C13DA06BA0019FF74 /* PlistBookmark */;
+			3A22450D13DA06BA0019FF74 = 3A22450D13DA06BA0019FF74 /* PBXTextBookmark */;
+			3A22450E13DA06BA0019FF74 = 3A22450E13DA06BA0019FF74 /* PBXTextBookmark */;
+			3A22450F13DA06BA0019FF74 = 3A22450F13DA06BA0019FF74 /* PBXTextBookmark */;
+			3A22451013DA06BA0019FF74 = 3A22451013DA06BA0019FF74 /* PBXTextBookmark */;
+			3A22451213DA06BA0019FF74 = 3A22451213DA06BA0019FF74 /* PBXTextBookmark */;
+			3A22451313DA06BA0019FF74 = 3A22451313DA06BA0019FF74 /* PBXTextBookmark */;
+			3A22451513DA06BA0019FF74 = 3A22451513DA06BA0019FF74 /* PBXTextBookmark */;
+			3A22452D13DA07C20019FF74 = 3A22452D13DA07C20019FF74 /* PBXTextBookmark */;
+			3A22452E13DA07C20019FF74 = 3A22452E13DA07C20019FF74 /* PBXTextBookmark */;
+			3A22452F13DA07C20019FF74 = 3A22452F13DA07C20019FF74 /* PBXTextBookmark */;
+			3A31949D13DC0680000B6B13 /* PBXTextBookmark */ = 3A31949D13DC0680000B6B13 /* PBXTextBookmark */;
+			3A31949E13DC0680000B6B13 /* PBXTextBookmark */ = 3A31949E13DC0680000B6B13 /* PBXTextBookmark */;
+			3A3194C413DC06C1000B6B13 /* PBXTextBookmark */ = 3A3194C413DC06C1000B6B13 /* PBXTextBookmark */;
+			3A3194C513DC06C1000B6B13 /* PBXTextBookmark */ = 3A3194C513DC06C1000B6B13 /* PBXTextBookmark */;
+			3A3194C613DC06C1000B6B13 /* PBXTextBookmark */ = 3A3194C613DC06C1000B6B13 /* PBXTextBookmark */;
+			3A3194D413DC08C7000B6B13 /* PBXTextBookmark */ = 3A3194D413DC08C7000B6B13 /* PBXTextBookmark */;
+			3A3194D513DC08C7000B6B13 /* PBXBookmark */ = 3A3194D513DC08C7000B6B13 /* PBXBookmark */;
+			3A3194D613DC08C7000B6B13 /* PBXBookmark */ = 3A3194D613DC08C7000B6B13 /* PBXBookmark */;
+			3A3194D713DC08C7000B6B13 /* PBXBookmark */ = 3A3194D713DC08C7000B6B13 /* PBXBookmark */;
+			3A3194D813DC08C7000B6B13 /* PBXBookmark */ = 3A3194D813DC08C7000B6B13 /* PBXBookmark */;
+			3A3194D913DC08C7000B6B13 /* PBXTextBookmark */ = 3A3194D913DC08C7000B6B13 /* PBXTextBookmark */;
+			3A3194DA13DC08C7000B6B13 /* PBXTextBookmark */ = 3A3194DA13DC08C7000B6B13 /* PBXTextBookmark */;
+			3A3194DD13DC08D3000B6B13 /* PBXTextBookmark */ = 3A3194DD13DC08D3000B6B13 /* PBXTextBookmark */;
+			3A3194E013DC08F1000B6B13 /* PBXTextBookmark */ = 3A3194E013DC08F1000B6B13 /* PBXTextBookmark */;
+			3A3194E113DC0981000B6B13 /* PBXTextBookmark */ = 3A3194E113DC0981000B6B13 /* PBXTextBookmark */;
+			3A3194EC13DC09F2000B6B13 /* PBXTextBookmark */ = 3A3194EC13DC09F2000B6B13 /* PBXTextBookmark */;
+			3A3194ED13DC09F2000B6B13 /* PBXTextBookmark */ = 3A3194ED13DC09F2000B6B13 /* PBXTextBookmark */;
+			3A3194EE13DC09F2000B6B13 /* PBXTextBookmark */ = 3A3194EE13DC09F2000B6B13 /* PBXTextBookmark */;
+			3A3194EF13DC09F2000B6B13 /* PBXTextBookmark */ = 3A3194EF13DC09F2000B6B13 /* PBXTextBookmark */;
+			3A3194FF13DC0A31000B6B13 /* PBXTextBookmark */ = 3A3194FF13DC0A31000B6B13 /* PBXTextBookmark */;
+			3A31950013DC0A31000B6B13 /* PBXTextBookmark */ = 3A31950013DC0A31000B6B13 /* PBXTextBookmark */;
+			3A31950113DC0A31000B6B13 /* PBXTextBookmark */ = 3A31950113DC0A31000B6B13 /* PBXTextBookmark */;
+			3A31950213DC0A31000B6B13 /* PBXTextBookmark */ = 3A31950213DC0A31000B6B13 /* PBXTextBookmark */;
+			3A31952E13DC0B9D000B6B13 /* PBXTextBookmark */ = 3A31952E13DC0B9D000B6B13 /* PBXTextBookmark */;
+			3A31952F13DC0B9D000B6B13 /* PBXTextBookmark */ = 3A31952F13DC0B9D000B6B13 /* PBXTextBookmark */;
+			3A31953013DC0B9D000B6B13 /* PBXTextBookmark */ = 3A31953013DC0B9D000B6B13 /* PBXTextBookmark */;
+			3A31953613DC0C1F000B6B13 /* PBXTextBookmark */ = 3A31953613DC0C1F000B6B13 /* PBXTextBookmark */;
+			3A31953713DC0C1F000B6B13 /* PBXTextBookmark */ = 3A31953713DC0C1F000B6B13 /* PBXTextBookmark */;
+			3A31953813DC0C1F000B6B13 /* PBXTextBookmark */ = 3A31953813DC0C1F000B6B13 /* PBXTextBookmark */;
+			3A31953A13DC0C31000B6B13 /* PBXTextBookmark */ = 3A31953A13DC0C31000B6B13 /* PBXTextBookmark */;
+			3A31953D13DC0C46000B6B13 /* PBXTextBookmark */ = 3A31953D13DC0C46000B6B13 /* PBXTextBookmark */;
+			3AE4C27013BB951200F0F5E0 = 3AE4C27013BB951200F0F5E0 /* PBXBookmark */;
+		};
+		sourceControlManager = 3A4B073113BA2084005827D1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* PriceChecker_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 399}}";
+			sepNavSelRange = "{235, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+	3A22412213D9F1480019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AEB9BEB13C1F2D0005AF5E9 /* ZBarReaderViewController.h */;
+		name = "ZBarReaderViewController.h: 25";
+		rLen = 0;
+		rLoc = 1124;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 682;
+	};
+	3A22416613D9F22F0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* PriceChecker_Prefix.pch */;
+		name = "PriceChecker_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	3A22417213D9F2970019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AEB9BEA13C1F2D0005AF5E9 /* ZBarReaderView.h */;
+		name = "ZBarReaderView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 824;
+		vrLoc = 802;
+	};
+	3A22418113D9F2C20019FF74 /* EmbedReaderViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 368}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 444}";
+		};
+	};
+	3A22418213D9F2C20019FF74 /* EmbedReaderViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 1824}}";
+			sepNavSelRange = "{389, 0}";
+			sepNavVisRange = "{0, 454}";
+		};
+	};
+	3A22450413DA06170019FF74 /* LauncherController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		functionName = "-initWithText:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = PriceChecker;
+		modificationTime = 333200217.705482;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	3A22450813DA06670019FF74 /* BarCodeScannerController.m:26 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		functionName = "-initWithText:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 26;
+		location = PriceChecker;
+		modificationTime = 333200239.03447;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	3A22450C13DA06BA0019FF74 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PriceChecker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/santoshs/projects/pricechecker/PriceChecker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	3A22450D13DA06BA0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22418113D9F2C20019FF74 /* EmbedReaderViewController.h */;
+		name = "EmbedReaderViewController.h: 11";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 444;
+		vrLoc = 0;
+	};
+	3A22450E13DA06BA0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PriceCheckerAppDelegate.h */;
+		name = "PriceCheckerAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	3A22450F13DA06BA0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23713BB904300F0F5E0 /* LauncherController.h */;
+		name = "LauncherController.h: 12";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 0;
+	};
+	3A22451013DA06BA0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22418213D9F2C20019FF74 /* EmbedReaderViewController.m */;
+		name = "EmbedReaderViewController.m: 92";
+		rLen = 0;
+		rLoc = 2247;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 1673;
+	};
+	3A22451213DA06BA0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 19";
+		rLen = 0;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 145;
+	};
+	3A22451313DA06BA0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */;
+		rLen = 0;
+		rLoc = 23;
+		rType = 1;
+	};
+	3A22451413DA06BA0019FF74 /* BarCodeScannerController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = BarCodeScannerController.m;
+		path = /Users/santoshs/projects/PriceChecker/Classes/BarCodeScannerController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1824}}";
+			sepNavSelRange = "{672, 0}";
+			sepNavVisRange = "{155, 575}";
+		};
+	};
+	3A22451513DA06BA0019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AEB9C1A13C1F355005AF5E9 /* BarCodeScannerController.h */;
+		name = "BarCodeScannerController.h: 14";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 0;
+	};
+	3A22452D13DA07C20019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */;
+		name = "BarCodeScannerController.m: 80";
+		rLen = 0;
+		rLoc = 2573;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 1856;
+	};
+	3A22452E13DA07C20019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 612;
+	};
+	3A22452F13DA07C20019FF74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 1354;
+		vrLoc = 305;
+	};
+	3A31949D13DC0680000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 1354;
+		vrLoc = 305;
+	};
+	3A31949E13DC0680000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 1354;
+		vrLoc = 305;
+	};
+	3A3194C413DC06C1000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 904;
+		vrLoc = 153;
+	};
+	3A3194C513DC06C1000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 19";
+		rLen = 0;
+		rLoc = 1643;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 145;
+	};
+	3A3194C613DC06C1000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 18";
+		rLen = 0;
+		rLoc = 1642;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	3A3194C913DC07D6000B6B13 /* barcode.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 371}, {1069, 802}}";
+		};
+	};
+	3A3194CE13DC085D000B6B13 /* shopping-cart@2x.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 350}, {1069, 802}}";
+		};
+	};
+	3A3194D413DC08C7000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23713BB904300F0F5E0 /* LauncherController.h */;
+		name = "LauncherController.h: 17";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	3A3194D513DC08C7000B6B13 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3A3194CA13DC07D6000B6B13 /* barcode@2x.png */;
+	};
+	3A3194D613DC08C7000B6B13 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3A3194C913DC07D6000B6B13 /* barcode.png */;
+	};
+	3A3194D713DC08C7000B6B13 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3A3194CD13DC085D000B6B13 /* shopping-cart.png */;
+	};
+	3A3194D813DC08C7000B6B13 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3A3194CE13DC085D000B6B13 /* shopping-cart@2x.png */;
+	};
+	3A3194D913DC08C7000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 18";
+		rLen = 0;
+		rLoc = 1642;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	3A3194DA13DC08C7000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 21";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 543;
+		vrLoc = 0;
+	};
+	3A3194DD13DC08D3000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 21";
+		rLen = 0;
+		rLoc = 528;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 3;
+	};
+	3A3194E013DC08F1000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 23";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 591;
+		vrLoc = 3;
+	};
+	3A3194E113DC0981000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 31";
+		rLen = 0;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 858;
+		vrLoc = 148;
+	};
+	3A3194EC13DC09F2000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23713BB904300F0F5E0 /* LauncherController.h */;
+		name = "LauncherController.h: 18";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	3A3194ED13DC09F2000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 24";
+		rLen = 0;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 516;
+	};
+	3A3194EE13DC09F2000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PriceCheckerAppDelegate.h */;
+		name = "PriceCheckerAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	3A3194EF13DC09F2000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 32";
+		rLen = 0;
+		rLoc = 1049;
+		rType = 0;
+		vrLen = 956;
+		vrLoc = 269;
+	};
+	3A3194FF13DC0A31000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PriceCheckerAppDelegate.h */;
+		name = "PriceCheckerAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	3A31950013DC0A31000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 24";
+		rLen = 0;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 922;
+		vrLoc = 386;
+	};
+	3A31950113DC0A31000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 32";
+		rLen = 0;
+		rLoc = 1049;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 269;
+	};
+	3A31950213DC0A31000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 32";
+		rLen = 0;
+		rLoc = 1049;
+		rType = 0;
+		vrLen = 1206;
+		vrLoc = 304;
+	};
+	3A31952E13DC0B9D000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 872;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 304;
+	};
+	3A31952F13DC0B9D000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 24";
+		rLen = 0;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 920;
+		vrLoc = 386;
+	};
+	3A31953013DC0B9D000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 27";
+		rLen = 0;
+		rLoc = 988;
+		rType = 0;
+		vrLen = 772;
+		vrLoc = 570;
+	};
+	3A31953613DC0C1F000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */;
+		name = "PriceCheckerAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 872;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 304;
+	};
+	3A31953713DC0C1F000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 27";
+		rLen = 0;
+		rLoc = 903;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 680;
+	};
+	3A31953813DC0C1F000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 27";
+		rLen = 0;
+		rLoc = 903;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 631;
+	};
+	3A31953A13DC0C31000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 25";
+		rLen = 0;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 370;
+	};
+	3A31953D13DC0C46000B6B13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */;
+		name = "LauncherController.m: 26";
+		rLen = 0;
+		rLoc = 686;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 370;
+	};
+	3A4B072813BA207F005827D1 /* PriceChecker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PriceChecker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3A4B073113BA2084005827D1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3A4B073213BA2084005827D1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3AE4C23713BB904300F0F5E0 /* LauncherController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 362}}";
+			sepNavSelRange = "{258, 0}";
+			sepNavVisRange = "{0, 387}";
+			sepNavWindowFrame = "{{15, 371}, {1069, 802}}";
+		};
+	};
+	3AE4C23813BB904300F0F5E0 /* LauncherController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 896}}";
+			sepNavSelRange = "{955, 11}";
+			sepNavVisRange = "{0, 600}";
+			sepNavWindowFrame = "{{15, 371}, {1069, 802}}";
+		};
+	};
+	3AE4C27013BB951200F0F5E0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3AE4C23013BB8FCA00F0F5E0 /* Icon.png */;
+	};
+	3AEB9BEA13C1F2D0005AF5E9 /* ZBarReaderView.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ZBarReaderView.h;
+		path = /Users/santoshs/projects/pricechecker/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h;
+		sourceTree = "<absolute>";
+	};
+	3AEB9BEB13C1F2D0005AF5E9 /* ZBarReaderViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ZBarReaderViewController.h;
+		path = /Users/santoshs/projects/pricechecker/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h;
+		sourceTree = "<absolute>";
+	};
+	3AEB9C1A13C1F355005AF5E9 /* BarCodeScannerController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 362}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 396}";
+		};
+	};
+	3AEB9C1B13C1F355005AF5E9 /* BarCodeScannerController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 1776}}";
+			sepNavSelRange = "{2573, 0}";
+			sepNavVisRange = "{1856, 720}";
+			sepNavWindowFrame = "{{84, 308}, {1069, 802}}";
+		};
+	};
+}
