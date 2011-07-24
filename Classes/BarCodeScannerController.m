@@ -59,7 +59,7 @@
 	[takePictureButton setTitle:@"Take Picture" forState:UIControlStateNormal];
 	[self.view addSubview:takePictureButton];
 	
-	
+
 	//[productImage release];
 	//[discrepancyButton release];
 	//[takePictureButton release];
@@ -75,6 +75,9 @@
 		codeLabel.text = result;
 }
 
+- (void) myTask {
+
+}
 
 /*
 // Override to allow orientations other than the default portrait orientation.

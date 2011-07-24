@@ -34,8 +34,10 @@
 		3A3194D013DC085D000B6B13 /* shopping-cart@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A3194CE13DC085D000B6B13 /* shopping-cart@2x.png */; };
 		3A31952A13DC0B70000B6B13 /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A31952813DC0B70000B6B13 /* AppIcon.png */; };
 		3A31952B13DC0B70000B6B13 /* AppIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A31952913DC0B70000B6B13 /* AppIcon@2x.png */; };
-		3A31955D13DC438C000B6B13 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A31955C13DC438C000B6B13 /* Default.png */; };
 		3A3195BF13DC510C000B6B13 /* defaultIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A3195BE13DC510C000B6B13 /* defaultIcon.png */; };
+		3A31964713DC6136000B6B13 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A31964613DC6136000B6B13 /* MBProgressHUD.m */; };
+		3A31966213DC622F000B6B13 /* PriceModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A31966113DC622F000B6B13 /* PriceModel.m */; };
+		3A31969913DC7CF9000B6B13 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A31969813DC7CF9000B6B13 /* Default.png */; };
 		3AE4C23113BB8FCA00F0F5E0 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AE4C23013BB8FCA00F0F5E0 /* Icon.png */; };
 		3AE4C23913BB904300F0F5E0 /* LauncherController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE4C23813BB904300F0F5E0 /* LauncherController.m */; };
 		3AEB9C0413C1F2F4005AF5E9 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AEB9C0313C1F2F4005AF5E9 /* AVFoundation.framework */; };
@@ -261,8 +263,12 @@
 		3A3194CE13DC085D000B6B13 /* shopping-cart@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "shopping-cart@2x.png"; sourceTree = "<group>"; };
 		3A31952813DC0B70000B6B13 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
 		3A31952913DC0B70000B6B13 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon@2x.png"; sourceTree = "<group>"; };
-		3A31955C13DC438C000B6B13 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		3A3195BE13DC510C000B6B13 /* defaultIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = defaultIcon.png; sourceTree = "<group>"; };
+		3A31964513DC6136000B6B13 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MBProgressHUD.h; path = ../PriceChecker/MBProgressHUD/MBProgressHUD.h; sourceTree = SOURCE_ROOT; };
+		3A31964613DC6136000B6B13 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MBProgressHUD.m; path = ../PriceChecker/MBProgressHUD/MBProgressHUD.m; sourceTree = SOURCE_ROOT; };
+		3A31966013DC622F000B6B13 /* PriceModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PriceModel.h; sourceTree = "<group>"; };
+		3A31966113DC622F000B6B13 /* PriceModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PriceModel.m; sourceTree = "<group>"; };
+		3A31969813DC7CF9000B6B13 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = SOURCE_ROOT; };
 		3AE4C23013BB8FCA00F0F5E0 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		3AE4C23713BB904300F0F5E0 /* LauncherController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LauncherController.h; sourceTree = "<group>"; };
 		3AE4C23813BB904300F0F5E0 /* LauncherController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LauncherController.m; sourceTree = "<group>"; };
@@ -305,6 +311,8 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				3A31965F13DC621B000B6B13 /* Models */,
+				3A31964313DC6125000B6B13 /* Utils */,
 				3AE4C23613BB900C00F0F5E0 /* Controllers */,
 				1D3623240D0F684500981E51 /* PriceCheckerAppDelegate.h */,
 				1D3623250D0F684500981E51 /* PriceCheckerAppDelegate.m */,
@@ -323,7 +331,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				3A31955C13DC438C000B6B13 /* Default.png */,
+				3A31969813DC7CF9000B6B13 /* Default.png */,
 				3A22445013D9F6E50019FF74 /* ZBarSDK */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -505,6 +513,24 @@
 				3A22446D13D9F6E50019FF74 /* zbar-samples.png */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		3A31964313DC6125000B6B13 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3A31964513DC6136000B6B13 /* MBProgressHUD.h */,
+				3A31964613DC6136000B6B13 /* MBProgressHUD.m */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
+		3A31965F13DC621B000B6B13 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3A31966013DC622F000B6B13 /* PriceModel.h */,
+				3A31966113DC622F000B6B13 /* PriceModel.m */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 		3A4B073413BA27C8005827D1 /* Images */ = {
@@ -748,8 +774,8 @@
 				3A3194D013DC085D000B6B13 /* shopping-cart@2x.png in Resources */,
 				3A31952A13DC0B70000B6B13 /* AppIcon.png in Resources */,
 				3A31952B13DC0B70000B6B13 /* AppIcon@2x.png in Resources */,
-				3A31955D13DC438C000B6B13 /* Default.png in Resources */,
 				3A3195BF13DC510C000B6B13 /* defaultIcon.png in Resources */,
+				3A31969913DC7CF9000B6B13 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -765,6 +791,8 @@
 				3AE4C23913BB904300F0F5E0 /* LauncherController.m in Sources */,
 				3AEB9C1C13C1F355005AF5E9 /* BarCodeScannerController.m in Sources */,
 				3A22418313D9F2C20019FF74 /* EmbedReaderViewController.m in Sources */,
+				3A31964713DC6136000B6B13 /* MBProgressHUD.m in Sources */,
+				3A31966213DC622F000B6B13 /* PriceModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

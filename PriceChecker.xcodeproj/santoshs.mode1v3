@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -265,9 +267,9 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>080E96DDFE201D6D7F000001</string>
+								<string>3A31965F13DC621B000B6B13</string>
+								<string>3A31964313DC6125000B6B13</string>
 								<string>3AE4C23613BB900C00F0F5E0</string>
-								<string>29B97317FDCFA39411CA2CEA</string>
-								<string>3A4B073413BA27C8005827D1</string>
 								<string>29B97323FDCFA39411CA2CEA</string>
 								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FABC05509CD000000102</string>
@@ -275,7 +277,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>10</integer>
+									<integer>6</integer>
 									<integer>4</integer>
 									<integer>3</integer>
 									<integer>0</integer>
@@ -312,14 +314,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>BarCodeScannerController.m</string>
+								<string>PriceModel.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,11 +327,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>BarCodeScannerController.m</string>
+										<string>PriceModel.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3A31963113DC5FCC000B6B13</string>
+										<string>3A31969613DC7B9C000B6B13</string>
 										<key>history</key>
 										<array>
 											<string>3AE4C27013BB951200F0F5E0</string>
@@ -350,10 +350,13 @@
 											<string>3A3195E613DC52F2000B6B13</string>
 											<string>3A3195FB13DC54BF000B6B13</string>
 											<string>3A3195FC13DC54BF000B6B13</string>
-											<string>3A3195FD13DC54BF000B6B13</string>
+											<string>3A31968113DC79A0000B6B13</string>
+											<string>3A31968213DC79A0000B6B13</string>
+											<string>3A31968413DC79A0000B6B13</string>
 											<string>3A3195E813DC52F2000B6B13</string>
-											<string>3A31961F13DC5762000B6B13</string>
-											<string>3A31962013DC5762000B6B13</string>
+											<string>3A31968513DC79A0000B6B13</string>
+											<string>3A31969413DC7B9C000B6B13</string>
+											<string>3A31969513DC7B9C000B6B13</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -551,13 +554,12 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>3A31963213DC5FCC000B6B13</string>
-		<string>3A31962213DC5762000B6B13</string>
+		<string>3A31969713DC7B9C000B6B13</string>
 		<string>3A3194F713DC09F2000B6B13</string>
 		<string>3A3194F813DC09F2000B6B13</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>3A4B072F13BA2084005827D1</string>
 		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/santoshs/projects/pricechecker/pricechecker.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -777,7 +779,7 @@
 			<key>WindowToolGUID</key>
 			<string>1CD10A99069EF8BA00B06720</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

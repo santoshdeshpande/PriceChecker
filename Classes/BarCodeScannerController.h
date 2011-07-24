@@ -7,14 +7,18 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MBProgressHUD.h"
 
 
 @interface BarCodeScannerController : TTViewController  {
 	NSString *result;
 	TTImageView *productImage;
 	UILabel *codeLabel;
+	MBProgressHUD *HUD;
+	
 }
 
 - (id) initWithText:(NSString *)text;
 
+- (void) myTask;
 @end
